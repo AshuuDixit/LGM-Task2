@@ -1,0 +1,31 @@
+/* NAVBAR  */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 2px 2px 2px 0;
+    overflow: hidden;
+    
+}
+
+li {
+    float: left;
+    margin-top: 19px;
+}
+
+.Navbar {
+    height: 70px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+
+.Navbar .brand {
+    margin-top: 60px;
+    margin-left: 20px;
+    
+    font-size: 27px;
+    font-weight: 600;
+    color: rgb(3, 3, 3);
+    text-decoration:underline;
+}
+
